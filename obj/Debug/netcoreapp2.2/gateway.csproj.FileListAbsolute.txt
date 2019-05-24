@@ -1,0 +1,14 @@
+/Users/reddtsai/Redd/dotnet/gateway/bin/Debug/netcoreapp2.2/gateway.deps.json
+/Users/reddtsai/Redd/dotnet/gateway/bin/Debug/netcoreapp2.2/gateway.runtimeconfig.json
+/Users/reddtsai/Redd/dotnet/gateway/bin/Debug/netcoreapp2.2/gateway.runtimeconfig.dev.json
+/Users/reddtsai/Redd/dotnet/gateway/bin/Debug/netcoreapp2.2/gateway.dll
+/Users/reddtsai/Redd/dotnet/gateway/bin/Debug/netcoreapp2.2/gateway.pdb
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.csprojAssemblyReference.cache
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.csproj.CoreCompileInputs.cache
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.RazorAssemblyInfo.cache
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.RazorAssemblyInfo.cs
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.AssemblyInfoInputs.cache
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.AssemblyInfo.cs
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.RazorTargetAssemblyInfo.cache
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.dll
+/Users/reddtsai/Redd/dotnet/gateway/obj/Debug/netcoreapp2.2/gateway.pdb
