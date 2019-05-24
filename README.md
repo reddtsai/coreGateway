@@ -1,5 +1,11 @@
 # coreGateway
 
+on .net core 2.1
+
+## Reference
+
+Ocelot
+
 ## Start
 
 ```bash
