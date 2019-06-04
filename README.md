@@ -45,6 +45,24 @@ Configuration
 }
 ```
 
+ReRoute example
+
+```json
+{
+    "DownstreamPathTemplate": "/api/test?paras=0",
+    "DownstreamScheme": "https",
+    "DownstreamHostAndPorts": [
+        {
+            "Host": "10.0.0.1",
+            "Port": 443
+        }
+    ],
+    "UpstreamPathTemplate": "/v1/api",
+    "UpstreamHttpMethod": [ "Get" ],
+    "UpstreamHost": "*.domain.com"
+}
+```
+
 ## Deploy
 
 ### Host on IIS
