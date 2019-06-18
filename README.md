@@ -6,7 +6,7 @@ This project is a Ocelot API Gateway on .net core 2.1
 
 Ocelot  
 
-## Start
+## Install and Setting
 
 Create project
 
